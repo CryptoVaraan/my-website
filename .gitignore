@@ -18,3 +18,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# LD: Added CapRover deploy stuff
+# Created with script: 'deploy-docusaurus-to-caprover'
+/caprover-deploy
+caprover-deploy.tar
